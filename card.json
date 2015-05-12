@@ -1,0 +1,17 @@
+{
+    "name": "GithubUserCard",
+    "description": "A card to display Github information for a particular user",
+    "version": "0.0.1",
+    "image": "card.png",
+    "footerText": "",
+    "properties": {
+        "github_user": {
+            "name": "Github Username",
+            "type": "text",
+            "value": null
+        }
+    },
+    "availableTileSizes": [
+        "rectangle"
+    ]
+}
